@@ -3,6 +3,10 @@
     grid-template-columns: 4fr 2fr;
 }
 
+.bookmarked-section {
+    padding: 10px;
+}
+
 
 @media only screen and (max-width: 576px) {
     .blog-container {

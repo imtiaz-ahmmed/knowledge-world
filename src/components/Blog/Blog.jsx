@@ -18,7 +18,7 @@ const Blog = (props) => {
                         <p>{publishDate}</p>
                     </div>
                 </div>
-                <p>{readTime} min read <button><FontAwesomeIcon icon={faBookmark} /></button> </p>
+                <p>{readTime} min read <button onClick={() => bookmarkHandel(blogTitle)}><FontAwesomeIcon icon={faBookmark} /></button> </p>
             </div>
             <h2>{blogTitle}</h2>
             <p>{keyWord}</p>
