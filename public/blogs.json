@@ -4,35 +4,39 @@
         "authorName": "Alexa Minamoto",
         "blogTitle": "Upskilling the public sector workforce to fill the tech talent ga",
         "coverImg": "https://media.istockphoto.com/id/1354205084/photo/diverse-group-of-professionals-meeting-in-modern-office-brainstorming-it-programmers-use.jpg?s=612x612&w=is&k=20&c=xBOW-5F6itbMwQ07ebXWTbxQmZhFoOp5Ccz7p2yQzOc=",
-        "authorImg": "https://unsplash.com/photos/_H6wpor9mjs",
+        "authorImg": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "readTime": 5,
-        "publishDate": "Mar 15 (7 Days ago)"
+        "publishDate": "Mar 15 (7 Days ago)",
+        "keyWord": "#programming #beginners"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
         "authorName": "Eliam Adam",
         "blogTitle": "GPT-4: All about the latest update, and how it changes ChatGPT",
-        "coverImg": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YWl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "authorImg": "https://unsplash.com/photos/iEEBWgY_6lA",
+        "coverImg": "https://images.unsplash.com/photo-1555255707-c07966088b7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bWFjaGluZSUyMGxlYXJuaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "authorImg": "https://images.unsplash.com/photo-1500048993953-d23a436266cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "readTime": 10,
-        "publishDate": "Mar 10 (12 Days ago)"
+        "publishDate": "Mar 10 (12 Days ago)",
+        "keyWord": "#AI #beginners"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
         "authorName": "Colter Ray",
         "blogTitle": "Pigeon VS AI: Is a wild bird smarter than artificial intelligence?",
         "coverImg": "https://plus.unsplash.com/premium_photo-1677094310918-cc302203b21c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGFpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "authorImg": "https://unsplash.com/photos/WNoLnJo7tS8",
+        "authorImg": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "readTime": 8,
-        "publishDate": "Mar 16 (6 Days ago)"
+        "publishDate": "Mar 16 (6 Days ago)",
+        "keyWord": "#AI #beginners"
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
         "authorName": "Ozzy Ben",
         "blogTitle": "How to Rollback Changes with the DNF History Command",
         "coverImg": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZGF0YSUyMHN0cnVjdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "authorImg": "https://unsplash.com/photos/ZHvM3XIOHoE",
+        "authorImg": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "readTime": 14,
-        "publishDate": "Mar 20 (2 Days ago)"
+        "publishDate": "Mar 20 (2 Days ago)",
+        "keyWord": "#programming #intermediate"
     }
 ]
