@@ -1,0 +1,38 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "authorName": "Alexa Minamoto",
+        "blogTitle": "Upskilling the public sector workforce to fill the tech talent ga",
+        "coverImg": "https://media.istockphoto.com/id/1354205084/photo/diverse-group-of-professionals-meeting-in-modern-office-brainstorming-it-programmers-use.jpg?s=612x612&w=is&k=20&c=xBOW-5F6itbMwQ07ebXWTbxQmZhFoOp5Ccz7p2yQzOc=",
+        "authorImg": "https://unsplash.com/photos/_H6wpor9mjs",
+        "readTime": 5,
+        "publishDate": "Mar 15 (7 Days ago)"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "authorName": "Eliam Adam",
+        "blogTitle": "GPT-4: All about the latest update, and how it changes ChatGPT",
+        "coverImg": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YWl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "authorImg": "https://unsplash.com/photos/iEEBWgY_6lA",
+        "readTime": 10,
+        "publishDate": "Mar 10 (12 Days ago)"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "authorName": "Colter Ray",
+        "blogTitle": "Pigeon VS AI: Is a wild bird smarter than artificial intelligence?",
+        "coverImg": "https://plus.unsplash.com/premium_photo-1677094310918-cc302203b21c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGFpfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "authorImg": "https://unsplash.com/photos/WNoLnJo7tS8",
+        "readTime": 8,
+        "publishDate": "Mar 16 (6 Days ago)"
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "authorName": "Ozzy Ben",
+        "blogTitle": "How to Rollback Changes with the DNF History Command",
+        "coverImg": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZGF0YSUyMHN0cnVjdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "authorImg": "https://unsplash.com/photos/ZHvM3XIOHoE",
+        "readTime": 14,
+        "publishDate": "Mar 20 (2 Days ago)"
+    }
+]

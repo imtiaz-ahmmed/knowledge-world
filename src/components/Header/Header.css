@@ -1,0 +1,23 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.header-inner img {
+    width: 50px;
+}
+
+.header-inner a {
+    text-decoration: none;
+    color: #6047EC;
+    font-weight: 600;
+}
