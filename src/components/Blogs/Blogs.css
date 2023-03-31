@@ -1,11 +1,13 @@
 .blog-container {
     display: grid;
     grid-template-columns: 4fr 2fr;
+    margin-top: 30px;
 }
 
 .bookmarked-section {
     padding: 10px;
 }
+
 
 
 @media only screen and (max-width: 576px) {

@@ -1,5 +1,16 @@
 .bookmark-items {
-    border: 1px solid blue;
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
     padding: 10px;
+    margin-top: 20px;
+
+}
+
+.bookmark-item {
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 30px;
+    font-weight: 600;
+    font-size: 18px;
 
 }
