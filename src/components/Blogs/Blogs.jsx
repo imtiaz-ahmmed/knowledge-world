@@ -25,26 +25,41 @@ const Blogs = () => {
             localStorage.setItem("readTime", time);
             setReadTime(time);
         }
-
     }
+
+    const [bookmarks, setBookmarks] = useState([]);
+
+    useEffect(() => {
+        const storedBookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+        setBookmarks(storedBookmarks);
+    }, []);
+
+    const bookmarkHandle = (title) => {
+        const storedBookmarks = JSON.parse(localStorage.getItem("bookmarks")) || [];
+        const updatedBookmarks = [...storedBookmarks, title];
+        localStorage.setItem("bookmarks", JSON.stringify(updatedBookmarks));
+        setBookmarks(updatedBookmarks);
+    };
+
     return (
         <div className='blog-container'>
-            <div >
-                {
-                    blogs.map(blog => <Blog
+            <div>
+                {blogs.map(blog => (
+                    <Blog
                         key={blog.id}
                         blog={blog}
                         markAsReadHandel={markAsReadHandel}
-                    ></Blog>)
-                }
+                        bookmarkHandle={bookmarkHandle}
+                    />
+                ))}
             </div>
 
             <div className='bookmarked-section'>
                 <div>
-                    <ReadingTime readTime={readTime}></ReadingTime>
+                    <ReadingTime readTime={readTime} />
                 </div>
                 <div>
-                    <Bookmark ></Bookmark>
+                    <Bookmark bookmarks={bookmarks} />
                 </div>
             </div>
         </div>

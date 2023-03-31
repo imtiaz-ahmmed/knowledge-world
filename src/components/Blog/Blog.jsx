@@ -4,9 +4,9 @@ import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 import './Blog.css';
 
 const Blog = (props) => {
-    console.log(props);
     const { coverImg, authorImg, authorName, publishDate, readTime, blogTitle, keyWord } = props.blog;
     const markAsReadHandel = props.markAsReadHandel;
+    const bookmarkHandle = props.bookmarkHandle;
     return (
         <div className='blog'>
             <img className='cover-img' src={coverImg} alt="" />
@@ -18,7 +18,7 @@ const Blog = (props) => {
                         <p>{publishDate}</p>
                     </div>
                 </div>
-                <p>{readTime} min read <button onClick={() => bookmarkHandel(blogTitle)}><FontAwesomeIcon icon={faBookmark} /></button> </p>
+                <p>{readTime} min read <button onClick={() => bookmarkHandle(blogTitle)}><FontAwesomeIcon icon={faBookmark} /></button> </p>
             </div>
             <h2>{blogTitle}</h2>
             <p>{keyWord}</p>
