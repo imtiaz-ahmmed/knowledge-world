@@ -46,3 +46,13 @@
 
     cursor: pointer;
 }
+
+@media only screen and (max-width: 576px) {
+    .info-container {
+        flex-direction: column;
+    }
+
+    .author-info-container {
+        flex-direction: column;
+    }
+}

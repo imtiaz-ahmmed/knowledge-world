@@ -21,3 +21,9 @@
     color: #6047EC;
     font-weight: 600;
 }
+
+@media only screen and (max-width: 576px) {
+    .headerContainer {
+        flex-direction: column;
+    }
+}
